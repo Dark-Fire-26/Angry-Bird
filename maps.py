@@ -11,6 +11,8 @@ height = None
 display = None
 clock = pygame.time.Clock()
 
+#no. of lvls = 15
+
 ground = 50
 
 d_velocity = 2.0
